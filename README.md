@@ -15,6 +15,8 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [前端全栈自学](#前端全栈自学)
 - [基于项目的学习](#基于项目的学习)
 - [夹藏私货](#夹藏私货)
+- [英文阅读](#英文阅读)
+- [讨论交流](#讨论交流)
 <br>
 
 # CS学校的本科生需要学习哪些课程？
@@ -61,3 +63,20 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 # 夹藏私货
 - [学习计算机科学的顺序是什么？](https://www.zhihu.com/question/294899102/answer/1950108906) 
+- [有什么自学英语好用的书丶教材？](https://www.zhihu.com/question/323015765/answer/1931412244) 
+<br>
+
+# 英文阅读
+- [沙拉查词-聚合词典划词翻译](https://saladict.crimx.com/) 
+- [有道词典](http://dict.youdao.com/?keyfrom=dict2.index) 
+- [DeepL翻译](https://www.deepl.com/translator) 
+- [Quicker调用沙拉查词-全局翻译](https://github.com/crimx/ext-saladict/discussions/493) 
+- [彩云小译](https://fanyi.caiyunapp.com/) 
+- [Youtube双语字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm) 
+<br>
+
+# 讨论交流
+- [一亩三分地-EECS|转码](https://www.1point3acres.com/bbs/forum-41-1.html) 
+- [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/) 
+- [Reddit learn programming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) 
+
