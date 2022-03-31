@@ -14,6 +14,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [计算机编程自学](#计算机编程自学)
 - [前端全栈自学](#前端全栈自学)
 - [基于项目的学习](#基于项目的学习)
+- [Python](#python)
 - [夹藏私货](#夹藏私货)
 - [英文阅读](#英文阅读)
 - [讨论交流](#讨论交流)
@@ -59,6 +60,13 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 # 基于项目的学习
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning) 
+<br>
+
+# python
+- [CS61A](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
+- [Real Python](https://realpython.com/) 
+- [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) 
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 <br>
 
 # 夹藏私货
