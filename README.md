@@ -87,4 +87,18 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [一亩三分地-EECS|转码](https://www.1point3acres.com/bbs/forum-41-1.html) 
 - [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/) 
 - [Reddit learn programming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) 
+<br>
 
+# 作者To do
+- [x] [慕课网-前端工程师体系课](https://www.imooc.com/) 完成体系课50%，作者编程的开始
+- [x] [learnjavascript.online](https://learnjavascript.online/) 新手编程迷茫阶段上手的第一个互动项目
+- [x] [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/) CS课程的开始
+- [x] [react-tutorial](https://react-tutorial.app/) 学完收货第一桶金的React项目
+- [ ] [Full stack open](https://fullstackopen.com/) 正在进行的项目
+- [ ] [CS 61B Data Structures](https://sp21.datastructur.es/) 必学的数据结构与算法课程
+- [ ] [The Odin Project](https://www.theodinproject.com/) 必学的前端全栈教程
+- [ ] [Real Python](https://realpython.com/) 非常有兴趣的Python教程网站<br>
+**English**
+    - [ ] [English Reading] 终生学习
+    - [ ] [\<Great Writing\>F-5]
+    - [ ] [\<Grammar In Use\>Blue Edition>]
