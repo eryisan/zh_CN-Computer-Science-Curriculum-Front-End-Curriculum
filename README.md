@@ -44,6 +44,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 # 前端全栈自学
 **前端工程师-全栈工程师课程自学资源、教程、路线 - Front-End Curriculum**
+- 参考：[WebDev/Digital Tutorial](https://docs.google.com/document/d/1MVthnQ5qfnEVmwIdfcocw3X0PhkiUQSf1IXRr6-c9bc/edit#heading=h.etgn0rrgqzg2)
 - 参考：[MDN](https://developer.mozilla.org/zh-CN/docs/learn) 
 - 参考：[The Odin Project](https://www.theodinproject.com/) 
 - 参考：[learning-roadmap](https://frontendmasters.com/guides/learning-roadmap/) 
@@ -89,16 +90,37 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [Reddit learn programming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) 
 <br>
 
+# 一些推荐资源链接
+### 前端
+- [CS142](https://web.stanford.edu/class/cs142/lectures.html)
+- [CS144](http://oak.cs.ucla.edu/classes/cs144/)
+- [CSE154](https://courses.cs.washington.edu/courses/cse154/20au/index.html)
+- [COMPSCI 326](https://web-programming.org/)
+- [CS498RK](https://uiuc-web-programming.gitlab.io/sp20/)
+<br>
+
 # 作者To do
 - [x] [慕课网-前端工程师体系课](https://www.imooc.com/) 完成体系课50%，编程的开始，也为收货第一桶金留下了伏笔
 - [x] [learnjavascript.online](https://learnjavascript.online/) 新手编程迷茫阶段上手的第一个互动项目
 - [x] [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/) CS课程的开始
+    - [x] [CS61学习经验1](https://zhuanlan.zhihu.com/p/371647463)
+    - [x] [CS61学习经验2](https://zhuanlan.zhihu.com/p/362371923)
+    - [x] [CS61学习经验3](https://zhuanlan.zhihu.com/p/381109940)
+    - [x] [CS61学习经验4](https://zhuanlan.zhihu.com/p/391809891)
 - [x] [react-tutorial](https://react-tutorial.app/) 学完收货第一桶金的React项目
-- [ ] [Full stack open](https://fullstackopen.com/) 正在进行的项目
-- [ ] [CS 61B Data Structures](https://sp21.datastructur.es/) 必学的数据结构与算法课程
+- [ ] [Full stack open](https://fullstackopen.com/) 正在进行中的项目
+- [ ] [CS 61B Data Structures](https://sp21.datastructur.es/) 半进行中，必学的数据结构与算法课程
 - [ ] [The Odin Project](https://www.theodinproject.com/) 必学的前端全栈教程
-- [ ] [Real Python](https://realpython.com/) 非常有兴趣的Python教程网站<br>
-**English**
-    - [ ] [English Reading] 终生学习
-    - [ ] [\<Great Writing\>F-5]
-    - [ ] [\<Grammar In Use\>Blue Edition>]
+- [ ] [Real Python](https://realpython.com/) 非常有兴趣的Python教程网站
+### English
+- [ ] [English Reading] 终生学习
+- [ ] [\<Great Writing\>F-5]
+- [ ] [\<Grammar In Use\>Blue Edition>]
+### 待定课程
+- [ ] [From Nand to Tetris](https://www.nand2tetris.org/)
+  - [x] [相关资料](https://www.zhihu.com/question/464124424)
+- [ ] [CS 61C](https://inst.eecs.berkeley.edu/~cs61c/fa20/)
+### 作者颈椎和腰椎养护
+- [ ] [桥](https://www.zhihu.com/question/23743722/answer/1950422508) 目前直桥式+下行式+高低式
+- [ ] [桥](https://www.zhihu.com/question/20721016/answer/1950517465) 目前直桥式+下行式+高低式
+- [ ] [桥](https://zhuanlan.zhihu.com/p/348905778) 目前直桥式+下行式+高低式
