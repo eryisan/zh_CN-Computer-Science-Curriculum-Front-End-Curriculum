@@ -113,9 +113,9 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [ ] [The Odin Project](https://www.theodinproject.com/) 完成fullstackopen之后的前端全栈教程
 - [ ] [Real Python](https://realpython.com/) 间歇性进行中，非常有兴趣的Python教程网站
 ### English
-- [ ] [English Reading] 终生学习
-- [ ] [\<Great Writing\>F-5]
-- [ ] [\<Grammar In Use\>Blue Edition>]
+- [ ] [English Reading](https://fanyi.caiyunapp.com/#/web) 终生学习
+- [ ] [\<Great Writing\>](https://eltngl.com/assets/html/academic/writing/) F-5
+- [ ] [\<Grammar In Use\>](https://www.cambridge.org/gb/cambridgeenglish/campaigns/inuse?content=student&utm_source=wmp&utm_medium=banner&utm_content=camhome_sliderone&utm_campaign=inuse) Blue Edition
 ### 待定课程
 - [ ] [From Nand to Tetris](https://www.nand2tetris.org/)
   - [x] [相关资料](https://www.zhihu.com/question/464124424)
