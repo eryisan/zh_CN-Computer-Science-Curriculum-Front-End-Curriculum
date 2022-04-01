@@ -108,7 +108,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
     - [x] [CS61学习经验3](https://zhuanlan.zhihu.com/p/381109940)
     - [x] [CS61学习经验4](https://zhuanlan.zhihu.com/p/391809891)
 - [x] [react-tutorial](https://react-tutorial.app/) 学完收货第一桶金的React项目
-- [ ] [Full stack open](https://fullstackopen.com/) 正在进行中的项目
+- [ ] [Full stack open](https://fullstackopen.com/) 正在进行中的项目(对作者第一桶金项目有帮助，课程优于算法课)
 - [ ] [CS 61B Data Structures](https://sp21.datastructur.es/) 半进行中，必学的数据结构与算法课程
 - [ ] [The Odin Project](https://www.theodinproject.com/) 完成fullstackopen之后的前端全栈教程
 - [ ] [Real Python](https://realpython.com/) 间歇性进行中，非常有兴趣的Python教程网站
