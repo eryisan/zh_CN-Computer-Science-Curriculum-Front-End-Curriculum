@@ -66,7 +66,6 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 # python
 - [CS61A](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
 - [Real Python](https://realpython.com/) 
-- [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) 
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 <br>
 
