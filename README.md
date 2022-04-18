@@ -103,13 +103,16 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [x] [慕课网-前端工程师体系课](https://www.imooc.com/) 完成体系课50%，编程的开始，也为收货第一桶金留下了伏笔
 - [x] [learnjavascript.online](https://learnjavascript.online/) 新手编程迷茫阶段上手的第一个互动项目
 - [x] [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/) CS课程的开始
-    - [x] [CS61学习经验1](https://zhuanlan.zhihu.com/p/371647463)
-    - [x] [CS61学习经验2](https://zhuanlan.zhihu.com/p/362371923)
-    - [x] [CS61学习经验3](https://zhuanlan.zhihu.com/p/381109940)
-    - [x] [CS61学习经验4](https://zhuanlan.zhihu.com/p/391809891)
+    - [x] [CS61A学习经验1](https://zhuanlan.zhihu.com/p/371647463)
+    - [x] [CS61A学习经验2](https://zhuanlan.zhihu.com/p/362371923)
+    - [x] [CS61A学习经验3](https://zhuanlan.zhihu.com/p/381109940)
+    - [x] [CS61A学习经验4](https://zhuanlan.zhihu.com/p/391809891)
 - [x] [react-tutorial](https://react-tutorial.app/) 学完收货第一桶金的React项目
 - [ ] [Full stack open](https://fullstackopen.com/) 正在进行中的项目(对作者第一桶金项目有帮助，课程优于算法课)
 - [ ] [CS 61B Data Structures](https://sp21.datastructur.es/) 半进行中，必学的数据结构与算法课程
+    - [x] [CS61B学习经验1](https://zhuanlan.zhihu.com/p/431583071)
+    - [x] [CS61B学习经验2](https://zhuanlan.zhihu.com/p/434144861)
+    - [x] [CS61B学习经验3](https://zhuanlan.zhihu.com/p/446593985)
 - [ ] [The Odin Project](https://www.theodinproject.com/) 完成fullstackopen之后的前端全栈教程
 - [ ] [Real Python](https://realpython.com/) 间歇性进行中，非常有兴趣的Python教程网站
 ### English
