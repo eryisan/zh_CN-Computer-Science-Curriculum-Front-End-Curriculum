@@ -109,6 +109,19 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
     - [x] [CS61A学习经验4](https://zhuanlan.zhihu.com/p/391809891)
 - [x] [react-tutorial](https://react-tutorial.app/) 学完收货第一桶金的React项目
 - [ ] [Full stack open](https://fullstackopen.com/) 正在进行中的项目(对作者第一桶金项目有帮助，课程优于算法课)
+    - [x] Part 1
+    - [x] Part 2
+    - [x] Part 3
+    - [x] Part 4
+    - [ ] Part 5 
+    - [ ] Part 6
+    - [ ] Part 7
+    - [ ] Part 8
+    - [ ] Part 9
+    - [ ] Part 10
+    - [ ] Part 11
+    - [ ] Part 12
+    - [ ] Part 13
 - [ ] [CS 61B Data Structures](https://sp21.datastructur.es/) 半进行中，必学的数据结构与算法课程
     - [x] [CS61B学习经验1](https://zhuanlan.zhihu.com/p/431583071)
     - [x] [CS61B学习经验2](https://zhuanlan.zhihu.com/p/434144861)
@@ -118,6 +131,12 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 ### English
 - [ ] [English Reading](https://fanyi.caiyunapp.com/#/web) 终生学习
 - [ ] [\<Great Writing\>](https://eltngl.com/assets/html/academic/writing/) F-5
+    - [x] F
+    - [x] 1
+    - [ ] 2 
+    - [ ] 3
+    - [ ] 4
+    - [ ] 5
 - [ ] [\<Grammar In Use\>](https://www.cambridge.org/gb/cambridgeenglish/campaigns/inuse?content=student&utm_source=wmp&utm_medium=banner&utm_content=camhome_sliderone&utm_campaign=inuse) Blue Edition
 ### 待定课程
 - [ ] [From Nand to Tetris](https://www.nand2tetris.org/)
