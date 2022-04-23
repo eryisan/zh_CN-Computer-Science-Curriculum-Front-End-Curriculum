@@ -44,10 +44,10 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 # 前端全栈自学
 **前端工程师-全栈工程师课程自学资源、教程、路线 - Front-End Curriculum**
-- 参考：[WebDev/Digital Tutorial](https://docs.google.com/document/d/1MVthnQ5qfnEVmwIdfcocw3X0PhkiUQSf1IXRr6-c9bc/edit#heading=h.etgn0rrgqzg2)
 - 参考：[MDN](https://developer.mozilla.org/zh-CN/docs/learn) 
 - 参考：[The Odin Project](https://www.theodinproject.com/) 
 - 参考：[learning-roadmap](https://frontendmasters.com/guides/learning-roadmap/) 
+- 参考：[Web Skills](https://andreasbm.github.io/web-skills/)
 
 | Index | Topic | Course | Pricing |
 |--|--|--|--|
