@@ -30,6 +30,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - 参考：[计算机科学课程体系规范2013](https://www.acm.org/binaries/content/assets/education/cs2013_chinese.pdf) 
 - 参考：[全球计算机教育范式](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf) 
 - 参考：[美国一流大学计算机组成与系统结构实验课程研究](http://cpu.csc-he.com/uploads/soft/170311/1-1F311040242.pdf) 
+- 参考：[计算机组成原理课程实践教学探索](http://cpu.csc-he.com/uploads/soft/170311/1-1F311040200.pdf)
 
 | Index | Language | Topic | Course | Book |
 |--|--|--|--|--|
