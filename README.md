@@ -128,7 +128,6 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
     - [x] [CS61B学习经验2](https://zhuanlan.zhihu.com/p/434144861)
     - [x] [CS61B学习经验3](https://zhuanlan.zhihu.com/p/446593985)
 - [ ] [The Odin Project](https://www.theodinproject.com/) 完成fullstackopen之后的前端全栈教程
-- [ ] [Real Python](https://realpython.com/) 间歇性进行中，非常有兴趣的Python教程网站
 ### English
 - [ ] [English Reading](https://fanyi.caiyunapp.com/#/web) 终生学习
 - [ ] [\<Great Writing\>](https://eltngl.com/assets/html/academic/writing/) F-5
