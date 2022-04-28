@@ -55,9 +55,14 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 | 1.1 | 全栈学习 |[慕课网-前端工程师体系课](https://www.imooc.com/) | ￥4069 |
 | 1.2 | 全栈学习 |[The Odin Project](https://www.theodinproject.com/) | 免费 |
 | 2 | JS专项 |[learnjavascript.online](https://learnjavascript.online/) | $75 |
-| 3 | React专项 |[react-tutorial](https://react-tutorial.app/) | $95 |
+| 3 | React专项 |[react-tutorial.app](https://react-tutorial.app/) | $95 |
 | 4 | 融合全栈 |[Full stack open](https://fullstackopen.com/) | 免费 |
 <br>
+
+* 作者私货推荐(英文付费)：
+  * [Learn HTML CSS](https://learnhtmlcss.online/)  预计2022年五月中旬上线
+  * [Learn Programming](https://learnprogramming.online/) 作者不需要，此课程没上过
+ 
 
 # 基于项目的学习
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 
