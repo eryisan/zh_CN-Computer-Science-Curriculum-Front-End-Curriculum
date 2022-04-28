@@ -69,7 +69,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning) 
 <br>
 
-# python
+# Python
 - [CS61A](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
 - [Real Python](https://realpython.com/) 
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
