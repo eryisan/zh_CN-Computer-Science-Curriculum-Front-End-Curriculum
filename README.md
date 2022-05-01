@@ -147,15 +147,20 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [ ] [From Nand to Tetris](https://www.nand2tetris.org/)
   - [x] [相关资料](https://www.zhihu.com/question/464124424)
 - [ ] [CS 61C](https://inst.eecs.berkeley.edu/~cs61c/fa20/)
-### 作者颈椎和腰椎养护
+### 颈椎和腰椎养护
 - [ ] [桥](https://www.zhihu.com/question/23743722/answer/1950422508) 目前直桥式+下行式+高低式
 - [ ] [桥](https://www.zhihu.com/question/20721016/answer/1950517465) 目前直桥式+下行式+高低式
 - [ ] [桥](https://zhuanlan.zhihu.com/p/348905778) 目前直桥式+下行式+高低式
-### 健身健体
+### 健身健体 (一周3 ~ 5练，每次最多30 ~ 60分钟)
+- [x] 脖子前倾、驼背
+  - [x] 脖子前倾矫正架、驼背矫正带 
+- [x] 手指、手腕、前臂
+  - [x] 握力器、负重卷绳、液压臂力棒
 - [x] 肺
   - [ ] 跑步 
-- [x] 腰
+- [x] 腰、腹
   - [ ] 桥
+  - [ ] 单杠举腿
 - [x] 背
   - [ ] 引体向上
   - [ ] 硬拉
