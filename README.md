@@ -60,8 +60,8 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 <br>
 
 * 作者私货推荐(英文付费)：
-  * [Learn HTML CSS](https://learnhtmlcss.online/)  预计2022年五月中旬上线
-  * [Learn Programming](https://learnprogramming.online/) 作者不需要，此课程没上过
+  * [Learn HTML CSS](https://learnhtmlcss.online/) 
+  * [Learn Programming](https://learnprogramming.online/) 
  <br>
 
 # 基于项目的学习
