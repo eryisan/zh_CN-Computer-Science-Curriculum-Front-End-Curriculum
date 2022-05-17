@@ -52,17 +52,14 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 | Index | Topic | Course | Pricing |
 |--|--|--|--|
-| 1.1 | 全栈学习 |[慕课网-前端工程师体系课](https://www.imooc.com/) | ￥4069 |
-| 1.2 | 全栈学习 |[The Odin Project](https://www.theodinproject.com/) | 免费 |
-| 2 | JS专项 |[learnjavascript.online](https://learnjavascript.online/) | $75 |
-| 3 | React专项 |[react-tutorial.app](https://react-tutorial.app/) | $95 |
-| 4 | 融合全栈 |[Full stack open](https://fullstackopen.com/) | 免费 |
+| 1 | 学编程 |[Learn Programming](https://learnprogramming.online/)  | $65 |
+| 2 | 学HTML CSS |[Learn HTML CSS](https://learnhtmlcss.online/)   | $85 |
+| 3 | 学习JavaScript |[learnjavascript.online](https://learnjavascript.online/) | $75 |
+| 4 | 前端学习 - 巩固 |[The Odin Project](https://www.theodinproject.com/) | 免费 |
+| 5 | 进入框架 - React |[react-tutorial.app](https://react-tutorial.app/) | $95 |
+| 6 | 学习前端与后端交互 |[Full stack open](https://fullstackopen.com/) | 免费 |
+| x | 中文课程替代 |[慕课网-前端工程师体系课](https://www.imooc.com/) | ￥4069 |
 <br>
-
-* 作者私货推荐(英文付费)：
-  * [Learn HTML CSS](https://learnhtmlcss.online/) 
-  * [Learn Programming](https://learnprogramming.online/) 
- <br>
 
 # 基于项目的学习
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 
