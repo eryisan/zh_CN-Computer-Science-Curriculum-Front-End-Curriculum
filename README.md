@@ -58,7 +58,6 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 | 4 | 前端学习 - 巩固 |[The Odin Project](https://www.theodinproject.com/) | 免费 |
 | 5 | 进入框架 - React |[react-tutorial.app](https://react-tutorial.app/) | $95 |
 | 6 | 学习前端与后端交互 |[Full stack open](https://fullstackopen.com/) | 免费 |
-| x | 中文课程替代 |[慕课网-前端工程师体系课](https://www.imooc.com/) | ￥4069 |
 <br>
 
 # 基于项目的学习
