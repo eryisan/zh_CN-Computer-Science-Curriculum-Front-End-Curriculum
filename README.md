@@ -5,6 +5,12 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
   <img src="https://github.com/eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum/blob/main/curriculum.png">
 </p>
 
+# 友情提示
+切忌陷入教程地狱。
+ooh new tutorial！
+ooh new tutorial！
+ooh new tutorial！
+
 # 声明
 内容对错自己评判，一概不负责。文章谨慎参考，内容带有私货。内容有误导倾向，请自行负责，后果自负。
 
