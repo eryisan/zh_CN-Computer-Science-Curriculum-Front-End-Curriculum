@@ -30,7 +30,7 @@ ooh new tutorial！
 - [CS学校的本科生需要学习哪些课程？](https://www.zhihu.com/question/39232347/answer/1947896480) 
 <br>
 
-# CS自学和前端自学提问互助、资源共享和交流QQ群（非闲聊群）
+## CS自学和前端自学提问互助、资源共享和交流QQ群（非闲聊群）
 - QQ群：916804503
 <br>
 
