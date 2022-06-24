@@ -19,7 +19,8 @@ ooh new tutorial！
 - [目录](#目录)
 - [计算机编程自学](#计算机编程自学) :+1:
 - [前端全栈自学](#前端全栈自学) :+1:
-- [英文阅读工具利器](#英文阅读) :+1:
+- [英文阅读自学](#英文阅读自学) :+1:
+- [英文阅读工具](#英文阅读工具) :+1:
 - [基于项目的学习](#基于项目的学习)
 - [Python](#python)
 - [夹藏私货](#夹藏私货)
@@ -73,15 +74,41 @@ ooh new tutorial！
 <br>
 
 <br>[⬆ Back to top](#目录)
-# 英文阅读
-- [沙拉查词-聚合词典划词翻译](https://saladict.crimx.com/) 
+# 英文阅读自学
+**英文阅读·零基础·循序渐进式学习：单词、英语是为了用，不是为了背而背**
+
+| 阶段0 | 0词汇量 | [不背单词](https://bbdc.cn/) | `30-40词/天` `间隔重复长久记忆` `目标4000词汇量` `时间100天` |
+|--|--|--|--|
+> 单词-看听例句-英文释义-中文释义-答题，(学习⇿复习)，完成后卸载APP
+
+| 阶段1 | 4000词汇量 | [感兴趣的技术英文网站](https://developer.mozilla.org/en-US/docs/Learn) | `每天阅读学习技术` `阅读过程中积累生词` `活到老学到老读到老` |
+|--|--|--|--|
+> 正常：阅读+沙拉查词生词本 <br> 变态加强：生词本+配合Anki间隔重复长久记忆 (学习⇿复习) <br> **阅读随着时间的增长积累加深，阅读速度由慢至快。熬。**
+- [旧·阅读示例视频](https://www.zhihu.com/zvideo/1275215778070003712)
+- [旧·阅读示例视频2](https://www.zhihu.com/zvideo/1331402490294329344)
+- [旧·阅读示例视频3](https://www.zhihu.com/zvideo/1354731923546292224)
+- [关于沙拉查词 知乎回答](https://www.zhihu.com/question/304709202/answer/1742776202)
+- [关于沙拉查词 知乎回答2](https://www.zhihu.com/question/340463485/answer/1873099405)
+
+| 阶段2 | 8000词汇量 | [英文阅读语法障碍](https://www.zhihu.com/question/323015765/answer/1931412244) | `彩云小译·中英对照` `语法和写作书《Great Writing》` |
+|--|--|--|--|
+> 正常：完成语法和写作书《Great Writing》系列1-5； <br> 加强巩固：《English Grammar In Use》或《Grammar In Context》或《English for Everyone:English Grammar Guide》
+
+| 阶段3 | 词汇量+++ | [大量阅读](#英文阅读自学) | `大量阅读` `每天每周每月每年不间断阅读` `刻意加深阅读材料难度、深度和广度`|
+|--|--|--|--|
+<br>
+
+<br>[⬆ Back to top](#目录)
+# 英文阅读工具
+- [沙拉查词-聚合词典划词翻译](https://saladict.crimx.com/) :+1:
 - [有道词典](http://dict.youdao.com/?keyfrom=dict2.index) 
 - [DeepL翻译](https://www.deepl.com/translator) 
-- [Quicker调用沙拉查词-全局翻译](https://github.com/crimx/ext-saladict/discussions/493) 
-- [彩云小译](https://fanyi.caiyunapp.com/) 
-- [Youtube双语字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm) 
+- [Quicker调用沙拉查词-全局翻译](https://github.com/crimx/ext-saladict/discussions/493) :+1:
+- [彩云小译](https://fanyi.caiyunapp.com/) :+1:
+- [Youtube双语字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm) :+1:
 - [Quicker聚合翻译OpenL DeepL](https://getquicker.net/Sharedaction?code=df2721b8-a300-4ce0-7a09-08d911cd3977)
 - [WPS 全文翻译](https://www.wps.cn/learning/course/detail/id/13536)
+- [沙拉查词+Anki](https://saladict.crimx.com/anki.html) :+1:
 <br>
 
 # 基于项目的学习
