@@ -100,6 +100,8 @@ ooh new tutorial！
 - [一亩三分地-EECS|转码](https://www.1point3acres.com/bbs/forum-41-1.html) 
 - [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/) 
 - [Reddit learn programming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) 
+- [CS自学指南](https://csdiy.wiki/)
+- [0xffff](https://0xffff.one/)
 <br>
 
 # 一些推荐资源链接
