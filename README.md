@@ -19,10 +19,10 @@ ooh new tutorial！
 - [目录](#目录)
 - [计算机编程自学](#计算机编程自学) :+1:
 - [前端全栈自学](#前端全栈自学) :+1:
+- [英文阅读](#英文阅读) :+1:
 - [基于项目的学习](#基于项目的学习)
 - [Python](#python)
 - [夹藏私货](#夹藏私货)
-- [英文阅读](#英文阅读) :+1:
 - [讨论交流](#讨论交流) :+1:
 <br>
 
@@ -34,6 +34,7 @@ ooh new tutorial！
 - QQ群：916804503
 <br>
 
+<br>[⬆ Back to top](#目录)
 # 计算机编程自学
 **CS计算机课程自学资源、教程、路线 - Computer Science Curriculum**
 - 参考：[Teach Yourself Computer Science](https://teachyourselfcs.com/) 
@@ -53,6 +54,7 @@ ooh new tutorial！
 | 6 |   | 操作系统 |[CS 162](https://cs162.org/) | [Operating Systems: Three Easy Pieces)](https://pages.cs.wisc.edu/~remzi/OSTEP/)<br>[Operating Systems: Principles and Practice](http://ospp.cs.washington.edu/) |
 <br>
 
+<br>[⬆ Back to top](#目录)
 # 前端全栈自学
 **前端工程师-全栈工程师课程自学资源、教程、路线 - Front-End Curriculum**
 - 参考：[MDN](https://developer.mozilla.org/zh-CN/docs/learn) 
@@ -68,6 +70,18 @@ ooh new tutorial！
 | 4 | 前端学习 - 巩固 |[The Odin Project](https://www.theodinproject.com/) | 免费 |
 | 5 | 进入框架 - React |[react-tutorial.app](https://react-tutorial.app/) | $95 |
 | 6 | 学习前端与后端交互 |[Full stack open](https://fullstackopen.com/) | 免费 |
+<br>
+
+<br>[⬆ Back to top](#目录)
+# 英文阅读
+- [沙拉查词-聚合词典划词翻译](https://saladict.crimx.com/) 
+- [有道词典](http://dict.youdao.com/?keyfrom=dict2.index) 
+- [DeepL翻译](https://www.deepl.com/translator) 
+- [Quicker调用沙拉查词-全局翻译](https://github.com/crimx/ext-saladict/discussions/493) 
+- [彩云小译](https://fanyi.caiyunapp.com/) 
+- [Youtube双语字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm) 
+- [Quicker聚合翻译OpenL DeepL](https://getquicker.net/Sharedaction?code=df2721b8-a300-4ce0-7a09-08d911cd3977)
+- [WPS 全文翻译](https://www.wps.cn/learning/course/detail/id/13536)
 <br>
 
 # 基于项目的学习
@@ -87,15 +101,7 @@ ooh new tutorial！
 - [有什么自学英语好用的书丶教材？](https://www.zhihu.com/question/323015765/answer/1931412244) 
 <br>
 
-# 英文阅读
-- [沙拉查词-聚合词典划词翻译](https://saladict.crimx.com/) 
-- [有道词典](http://dict.youdao.com/?keyfrom=dict2.index) 
-- [DeepL翻译](https://www.deepl.com/translator) 
-- [Quicker调用沙拉查词-全局翻译](https://github.com/crimx/ext-saladict/discussions/493) 
-- [彩云小译](https://fanyi.caiyunapp.com/) 
-- [Youtube双语字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm) 
-<br>
-
+<br>[⬆ Back to top](#目录)
 # 讨论交流
 - [一亩三分地-EECS|转码](https://www.1point3acres.com/bbs/forum-41-1.html) 
 - [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/) 
