@@ -21,11 +21,11 @@ ooh new tutorial！
 - [前端全栈自学](#前端全栈自学) :+1:
 - [英文阅读自学](#英文阅读自学) :+1:
 - [英文阅读工具](#英文阅读工具) :+1:
+- [身体健康养护](#身体健康养护) :+1:
+- [讨论交流](#讨论交流) :+1:
 - [基于项目的学习](#基于项目的学习)
 - [Python](#python)
 - [其他](#其他)
-- [讨论交流](#讨论交流) :+1:
-- [身体健康养护](#身体健康养护) :+1:
 <br>
 
 # CS学校的本科生需要学习哪些课程？
@@ -112,32 +112,6 @@ ooh new tutorial！
 - [沙拉查词+Anki](https://saladict.crimx.com/anki.html) :+1:
 <br>
 
-# 基于项目的学习
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) 
-<br>
-
-# Python
-- [CS61A](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
-- [Real Python](https://realpython.com/)  补充：CS61A学Python后，就能看Real Python做项目了
-- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-- [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) 
-<br>
-
-# 其他
-- [学习计算机科学的顺序是什么？](https://www.zhihu.com/question/294899102/answer/1950108906) 
-- [有什么自学英语好用的书丶教材？](https://www.zhihu.com/question/323015765/answer/1931412244) 
-<br>
-
-<br>[⬆ Back to top](#目录)
-# 讨论交流
-- [一亩三分地-EECS|转码](https://www.1point3acres.com/bbs/forum-41-1.html) 
-- [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/) 
-- [Reddit learn programming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) 
-- [CS自学指南](https://csdiy.wiki/)
-- [0xffff](https://0xffff.one/)
-<br>
-
 <br>[⬆ Back to top](#目录)
 # 身体健康养护
 > **身体是革命的本钱。身体健康才能事业长虹。** `腰背腿优先级最高` `一周3 ~ 5练` `30 ~ 60分钟/练` 
@@ -158,8 +132,34 @@ ooh new tutorial！
   - [x] 握力器、负重卷绳、液压臂力棒
 - [x] 辅助健身记录手机App
   - [x] 训记App 
-
 <br>
+
+<br>[⬆ Back to top](#目录)
+# 讨论交流
+- [一亩三分地-EECS|转码](https://www.1point3acres.com/bbs/forum-41-1.html) 
+- [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/) 
+- [Reddit learn programming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) 
+- [CS自学指南](https://csdiy.wiki/)
+- [0xffff](https://0xffff.one/)
+<br>
+
+# 基于项目的学习
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) 
+<br>
+
+# Python
+- [CS61A](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
+- [Real Python](https://realpython.com/)  补充：CS61A学Python后，就能看Real Python做项目了
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+- [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) 
+<br>
+
+# 其他
+- [学习计算机科学的顺序是什么？](https://www.zhihu.com/question/294899102/answer/1950108906) 
+- [有什么自学英语好用的书丶教材？](https://www.zhihu.com/question/323015765/answer/1931412244) 
+<br>
+
 # 一些推荐资源链接
 ### 前端
 - [CS142](https://web.stanford.edu/class/cs142/lectures.html)
