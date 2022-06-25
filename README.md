@@ -23,7 +23,7 @@ ooh new tutorial！
 - [英文阅读工具](#英文阅读工具) :+1:
 - [基于项目的学习](#基于项目的学习)
 - [Python](#python)
-- [夹藏私货](#夹藏私货)
+- [其他](#其他)
 - [讨论交流](#讨论交流) :+1:
 - [身体健康养护](#身体健康养护) :+1:
 <br>
@@ -124,7 +124,7 @@ ooh new tutorial！
 - [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) 
 <br>
 
-# 夹藏私货
+# 其他
 - [学习计算机科学的顺序是什么？](https://www.zhihu.com/question/294899102/answer/1950108906) 
 - [有什么自学英语好用的书丶教材？](https://www.zhihu.com/question/323015765/answer/1931412244) 
 <br>
