@@ -25,6 +25,7 @@ ooh new tutorial！
 - [Python](#python)
 - [夹藏私货](#夹藏私货)
 - [讨论交流](#讨论交流) :+1:
+- [身体健康养护](#身体健康养护) :+1:
 <br>
 
 # CS学校的本科生需要学习哪些课程？
@@ -37,7 +38,7 @@ ooh new tutorial！
 
 <br>[⬆ Back to top](#目录)
 # 计算机编程自学
-**CS计算机课程自学资源、教程、路线 - Computer Science Curriculum**
+> **CS计算机课程自学资源、教程、路线 - Computer Science Curriculum**
 - 参考：[Teach Yourself Computer Science](https://teachyourselfcs.com/) 
 - 参考：[计算机科学课程体系规范2013](https://www.acm.org/binaries/content/assets/education/cs2013_chinese.pdf) 
 - 参考：[全球计算机教育范式](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf) 
@@ -57,7 +58,7 @@ ooh new tutorial！
 
 <br>[⬆ Back to top](#目录)
 # 前端全栈自学
-**前端工程师-全栈工程师课程自学资源、教程、路线 - Front-End Curriculum**
+> **前端工程师-全栈工程师课程自学资源、教程、路线 - Front-End Curriculum**
 - 参考：[MDN](https://developer.mozilla.org/zh-CN/docs/learn) 
 - 参考：[The Odin Project](https://www.theodinproject.com/) 
 - 参考：[learning-roadmap](https://frontendmasters.com/guides/learning-roadmap/) 
@@ -75,7 +76,7 @@ ooh new tutorial！
 
 <br>[⬆ Back to top](#目录)
 # 英文阅读自学
-**英文阅读·零基础·循序渐进式学习：单词、英语是为了用，不是为了背而背**
+> **英文阅读·零基础·循序渐进式学习：单词、英语是为了用，不是为了背而背**
 
 | 阶段0 | 0词汇量 | [不背单词](https://bbdc.cn/) | `30-40词/天` `间隔重复长久记忆` `目标4000词汇量` `时间100天` |
 |--|--|--|--|
@@ -92,7 +93,7 @@ ooh new tutorial！
 
 | 阶段2 | 8000词汇量 | [英文阅读语法障碍](https://www.zhihu.com/question/323015765/answer/1931412244) | `彩云小译·中英对照` `语法和写作书《Great Writing》` |
 |--|--|--|--|
-> 正常：完成语法和写作书《Great Writing》系列1-5； <br> 加强巩固：《English Grammar In Use》或《Grammar In Context》或《English for Everyone:English Grammar Guide》
+> 正常：完成语法和写作书《Great Writing》系列1-5； <br> 加强巩固：《English Grammar In Use》或《Grammar In Context》或《English for Everyone:Grammar》
 
 | 阶段3 | 词汇量+++ | [大量阅读](#英文阅读自学) | `大量阅读` `每天每周每月每年不间断阅读` `刻意加深阅读材料难度、深度和广度`|
 |--|--|--|--|
@@ -136,6 +137,31 @@ ooh new tutorial！
 - [CS自学指南](https://csdiy.wiki/)
 - [0xffff](https://0xffff.one/)
 <br>
+
+<br>[⬆ Back to top](#目录)
+# 身体健康养护
+> **身体是革命的本钱。身体健康才能事业长虹。** `腰背腿优先级最高` `一周3 ~ 5练` `30 ~ 60分钟/练` 
+- [x] 肺
+  - [ ] **跑步** :+1:
+- [x] 腰、腹
+  - [ ] **桥** :+1:
+  - [ ] 单杠举腿
+- [x] 背
+  - [ ] **引体向上** :+1:
+  - [ ] 硬拉
+  - [ ] 俯立划船
+- [x] 腿
+  - [ ] **深蹲** :+1:
+- [x] 胸
+  - [ ] 卧推
+- [x] 手指、手腕、前臂
+  - [x] 握力器、负重卷绳、液压臂力棒
+- [x] 辅助健身记录手机App
+  - [x] 训记App 
+### 颈椎和腰椎养护
+- [ ] [桥](https://www.zhihu.com/question/23743722/answer/1950422508) 目前直桥式+下行式+高低式
+- [ ] [桥](https://www.zhihu.com/question/20721016/answer/1950517465) 目前直桥式+下行式+高低式
+- [ ] [桥](https://zhuanlan.zhihu.com/p/348905778) 目前直桥式+下行式+高低式
 
 # 一些推荐资源链接
 ### 前端
@@ -188,25 +214,3 @@ ooh new tutorial！
 - [ ] [From Nand to Tetris](https://www.nand2tetris.org/)
   - [x] [相关资料](https://www.zhihu.com/question/464124424)
 - [ ] [CS 61C](https://inst.eecs.berkeley.edu/~cs61c/fa20/)
-### 颈椎和腰椎养护
-- [ ] [桥](https://www.zhihu.com/question/23743722/answer/1950422508) 目前直桥式+下行式+高低式
-- [ ] [桥](https://www.zhihu.com/question/20721016/answer/1950517465) 目前直桥式+下行式+高低式
-- [ ] [桥](https://zhuanlan.zhihu.com/p/348905778) 目前直桥式+下行式+高低式
-### 健身健体 (一周3 ~ 5练，30 ~ 60分钟/练) `腰背腿优先级最高`
-- [x] 肺
-  - [ ] **跑步**
-- [x] 腰、腹
-  - [ ] **桥**
-  - [ ] 单杠举腿
-- [x] 背
-  - [ ] **引体向上**
-  - [ ] 硬拉
-  - [ ] 俯立划船
-- [x] 腿
-  - [ ] **深蹲**
-- [x] 胸
-  - [ ] 卧推
-- [x] 手指、手腕、前臂
-  - [x] 握力器、负重卷绳、液压臂力棒
-- [x] 辅助健身记录手机App
-  - [x] 训记App 
