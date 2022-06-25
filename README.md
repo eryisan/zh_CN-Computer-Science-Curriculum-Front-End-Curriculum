@@ -114,7 +114,7 @@ ooh new tutorial！
 
 <br>[⬆ Back to top](#目录)
 # 身体健康养护
-> **身体是革命的本钱。身体健康才能事业长虹。** `腰背腿优先级最高` `一周3 ~ 5练` `30 ~ 60分钟/练` 
+> **身体是革命的本钱。身体健康才能事业长虹。** `腰背腿优先级最高` `一周3 ~ 5练` `30 ~ 60分钟/练`
 - [x] 肺
   - [ ] **跑步** :+1:
 - [x] 腰、腹
@@ -132,6 +132,7 @@ ooh new tutorial！
   - [x] 握力器、负重卷绳、液压臂力棒
 - [x] 辅助健身记录手机App
   - [x] 训记App 
+- [程序员延寿指南 | A programmer's guide to live longer](https://github.com/geekan/HowToLiveLonger)
 <br>
 
 <br>[⬆ Back to top](#目录)
