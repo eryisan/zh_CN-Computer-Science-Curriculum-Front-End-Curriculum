@@ -144,7 +144,7 @@ ooh new tutorial！
 - [x] 肺
   - [ ] **跑步** :+1:
 - [x] 腰、腹
-  - [ ] **桥** :+1:
+  - [ ] [桥](/QIAO.md) :+1:
   - [ ] 单杠举腿
 - [x] 背
   - [ ] **引体向上** :+1:
@@ -158,11 +158,8 @@ ooh new tutorial！
   - [x] 握力器、负重卷绳、液压臂力棒
 - [x] 辅助健身记录手机App
   - [x] 训记App 
-### 颈椎和腰椎养护
-- [ ] [桥](https://www.zhihu.com/question/23743722/answer/1950422508) 目前直桥式+下行式+高低式
-- [ ] [桥](https://www.zhihu.com/question/20721016/answer/1950517465) 目前直桥式+下行式+高低式
-- [ ] [桥](https://zhuanlan.zhihu.com/p/348905778) 目前直桥式+下行式+高低式
 
+<br>
 # 一些推荐资源链接
 ### 前端
 - [CS142](https://web.stanford.edu/class/cs142/lectures.html)
