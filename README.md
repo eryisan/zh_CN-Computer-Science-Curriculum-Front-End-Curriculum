@@ -56,7 +56,7 @@ ooh new tutorial！
 | 6 |   | 操作系统 |[CS 162](https://cs162.org/) | [Operating Systems: Three Easy Pieces)](https://pages.cs.wisc.edu/~remzi/OSTEP/)<br>[Operating Systems: Principles and Practice](http://ospp.cs.washington.edu/) |
 
 ### 不错的网站
-- [用十年来学编程](https://coolshell.cn/articles/2250.html)
+- [用十年来学编程](https://coolshell.cn/articles/2250.html) 学习心态
 <br>
 
 <br>[⬆ Back to top](#目录)
@@ -77,8 +77,8 @@ ooh new tutorial！
 | 6 | 学习前端与后端交互 |[Full stack open](https://fullstackopen.com/) | 免费 |
 
 ### 不错的网站
-- [Frontend Mentor](https://www.frontendmentor.io/resources)
-- [Scrimba](https://scrimba.com/)
+- [Frontend Mentor](https://www.frontendmentor.io/resources)  做项目
+- [Scrimba](https://scrimba.com/)  互动式视频
 <br>
 
 <br>[⬆ Back to top](#目录)
