@@ -56,6 +56,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ### 不错的网站
 - [用十年来学编程](https://coolshell.cn/articles/2250.html) 学习心态
+- [Real Python](https://realpython.com/) CS61A之后不错的Python网站
 <br>
 
 <br>[⬆ Back to top](#目录)
