@@ -77,7 +77,7 @@ ooh new tutorial！
 | 6 | 学习前端与后端交互 |[Full stack open](https://fullstackopen.com/) | 免费 |
 
 ### 不错的网站
-- [Frontend Mentor](https://www.frontendmentor.io/)
+- [Frontend Mentor](https://www.frontendmentor.io/resources)
 - [Scrimba](https://scrimba.com/)
 <br>
 
