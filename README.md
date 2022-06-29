@@ -54,6 +54,9 @@ ooh new tutorial！
 | 4.2 |  C | 计算机架构 |[CMU 15-213](http://www.cs.cmu.edu/~213/) | [Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)](https://csapp.cs.cmu.edu/) |
 | 5 |   | 计算机网络 |[CS 144](https://cs144.github.io/) | [Computer Networking: a Top Down Approach)](https://csapp.cs.cmu.edu/) |
 | 6 |   | 操作系统 |[CS 162](https://cs162.org/) | [Operating Systems: Three Easy Pieces)](https://pages.cs.wisc.edu/~remzi/OSTEP/)<br>[Operating Systems: Principles and Practice](http://ospp.cs.washington.edu/) |
+
+### 不错的网站
+- [用十年来学编程](https://coolshell.cn/articles/2250.html)
 <br>
 
 <br>[⬆ Back to top](#目录)
@@ -72,6 +75,10 @@ ooh new tutorial！
 | 4 | 前端学习 - 巩固 |[The Odin Project](https://www.theodinproject.com/) | 免费 |
 | 5 | 进入框架 - React |[react-tutorial.app](https://react-tutorial.app/) | $95 |
 | 6 | 学习前端与后端交互 |[Full stack open](https://fullstackopen.com/) | 免费 |
+
+### 不错的网站
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [Scrimba](https://scrimba.com/)
 <br>
 
 <br>[⬆ Back to top](#目录)
