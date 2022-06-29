@@ -22,8 +22,6 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [英文阅读工具](#英文阅读工具) :+1:
 - [身体健康养护](#身体健康养护) :+1:
 - [CS相关社区讨论交流](#讨论交流) :+1:
-- [基于项目的学习](#基于项目的学习)
-- [Python](#python)
 - [其他](#其他)
 <br>
 
@@ -57,6 +55,10 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 ### 不错的网站
 - [用十年来学编程](https://coolshell.cn/articles/2250.html) 学习心态
 - [Real Python](https://realpython.com/) CS61A之后不错的Python网站
+  - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+  - [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) 
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 做项目
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) 做项目
 <br>
 
 <br>[⬆ Back to top](#目录)
@@ -104,6 +106,8 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 | 阶段3 | 词汇量+++ | [大量阅读](#英文阅读自学) | `大量阅读` `每天每周每月每年不间断阅读` `刻意加深阅读材料难度、深度和广度`|
 |--|--|--|--|
+
+- [有什么自学英语好用的书丶教材？](https://www.zhihu.com/question/323015765/answer/1931412244) 
 <br>
 
 <br>[⬆ Back to top](#目录)
@@ -149,32 +153,6 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [Reddit learn programming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) 
 - [CS自学指南](https://csdiy.wiki/)
 - [0xffff](https://0xffff.one/)
-<br>
-
-# 基于项目的学习
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) 
-<br>
-
-# Python
-- [CS61A](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
-- [Real Python](https://realpython.com/)  补充：CS61A学Python后，就能看Real Python做项目了
-- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-- [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) 
-<br>
-
-# 其他
-- [学习计算机科学的顺序是什么？](https://www.zhihu.com/question/294899102/answer/1950108906) 
-- [有什么自学英语好用的书丶教材？](https://www.zhihu.com/question/323015765/answer/1931412244) 
-<br>
-
-# 一些推荐资源链接
-### 前端
-- [CS142](https://web.stanford.edu/class/cs142/lectures.html)
-- [CS144](http://oak.cs.ucla.edu/classes/cs144/)
-- [CSE154](https://courses.cs.washington.edu/courses/cse154/20au/index.html)
-- [COMPSCI 326](https://web-programming.org/)
-- [CS498RK](https://uiuc-web-programming.gitlab.io/sp20/)
 <br>
 
 # 作者To do
