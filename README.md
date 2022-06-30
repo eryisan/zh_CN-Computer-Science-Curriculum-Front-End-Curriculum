@@ -158,7 +158,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 <br>[⬆ Back to top](#目录)
 # Step by Step Building 100 Days Project
 - HTML & CSS
-  - [youtube_clone](https://github.com/eryisan/youtube_clone)
+  - [youtube_clone](https://github.com/eryisan/youtube_clone) Day 1
 <br>
 
 # 作者To do
