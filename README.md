@@ -16,7 +16,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 # 目录
 - [声明](#声明)
 - [目录](#目录)
-- [计算机编程自学](#计算机编程自学) :+1:
+- [计算机编程自学](#计算机编程后端自学) :+1:
 - [前端全栈自学](#前端全栈自学) :+1:
 - [英文阅读自学](#英文阅读自学) :+1:
 - [英文阅读工具](#英文阅读工具) :+1:
@@ -34,7 +34,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 <br>
 
 <br>[⬆ Back to top](#目录)
-# 计算机编程自学
+# 计算机编程后端自学
 > **CS计算机课程自学资源、教程、路线 - Computer Science Curriculum**
 - 参考：[Teach Yourself Computer Science](https://teachyourselfcs.com/) 
 - 参考：[计算机科学课程体系规范2013](https://www.acm.org/binaries/content/assets/education/cs2013_chinese.pdf) 
