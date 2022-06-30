@@ -22,7 +22,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [英文阅读工具](#英文阅读工具) :+1:
 - [身体健康养护](#身体健康养护) :+1:
 - [CS相关社区讨论交流](#讨论交流) :+1:
-- [其他](#其他)
+- [Building 100 Days Project](#building-100-days-project)
 <br>
 
 # CS学校的本科生需要学习哪些课程？
@@ -153,6 +153,10 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [Reddit learn programming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) 
 - [CS自学指南](https://csdiy.wiki/)
 - [0xffff](https://0xffff.one/)
+<br>
+
+<br>[⬆ Back to top](#目录)
+# Building 100 Days Project
 <br>
 
 # 作者To do
