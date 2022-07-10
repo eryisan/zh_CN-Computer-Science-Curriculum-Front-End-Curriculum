@@ -160,9 +160,9 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 # Step by Step Building 100 Days Project
 - HTML & CSS
   - [x] [youtube_clone](https://github.com/eryisan/youtube_clone) Day 1
-  - [ ] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-        - [x] [CSS Diner](https://flukeout.github.io/)
-        - [x] [FLEXBOX FROGGY](https://flexboxfroggy.com/)
+  - [x] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+       - [x] [CSS Diner](https://flukeout.github.io/)
+       - [x] [FLEXBOX FROGGY](https://flexboxfroggy.com/)
   - [ ] [card companies](https://ziontutorial.com/how-to-create-a-modern-website-using-html-and-css-step-by-step-website-tutorial/#C4)
 <br>
 
