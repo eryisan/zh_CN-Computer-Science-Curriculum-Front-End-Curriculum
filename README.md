@@ -163,6 +163,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
   - [x] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
        - [x] [CSS Diner](https://flukeout.github.io/)
        - [x] [FLEXBOX FROGGY](https://flexboxfroggy.com/)
+       - [x] [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure/play)
   - [ ] [card companies](https://ziontutorial.com/how-to-create-a-modern-website-using-html-and-css-step-by-step-website-tutorial/#C4)
 <br>
 
