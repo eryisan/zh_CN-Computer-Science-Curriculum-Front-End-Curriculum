@@ -164,6 +164,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
        - [x] [CSS Diner](https://flukeout.github.io/)
        - [x] [FLEXBOX FROGGY](https://flexboxfroggy.com/)
        - [x] [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure/play)
+       - [x] [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/) & Tailwind CSS
   - [ ] [card companies](https://ziontutorial.com/how-to-create-a-modern-website-using-html-and-css-step-by-step-website-tutorial/#C4)
 <br>
 
