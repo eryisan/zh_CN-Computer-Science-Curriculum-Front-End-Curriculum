@@ -191,6 +191,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
     - [x] [CS61B学习经验1](https://zhuanlan.zhihu.com/p/431583071)
     - [x] [CS61B学习经验2](https://zhuanlan.zhihu.com/p/434144861)
     - [x] [CS61B学习经验3](https://zhuanlan.zhihu.com/p/446593985)
+    - [x] [cs61b-study-guide](https://github.com/SFUMECJF/cs61b-study-guide) 他人总结
 ### English
 - [ ] [English Reading](https://fanyi.caiyunapp.com/#/web) 终生学习
 - [ ] [\<Great Writing\>](https://eltngl.com/assets/html/academic/writing/) F-5
