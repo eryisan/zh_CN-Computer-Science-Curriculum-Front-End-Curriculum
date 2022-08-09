@@ -20,6 +20,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [前端全栈自学](#前端全栈自学) :+1:
 - [英文阅读自学](#英文阅读自学) :+1:
 - [英文阅读工具](#英文阅读工具) :+1:
+- [辅助工具](#辅助工具) :+1:
 - [身体健康养护](#身体健康养护) :+1:
 - [CS相关社区讨论交流](#讨论交流) :+1:
 - [Step by Step Building 100 Days Project](#step-by-step-building-100-days-project)
@@ -122,6 +123,16 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [Quicker聚合翻译OpenL DeepL](https://getquicker.net/Sharedaction?code=df2721b8-a300-4ce0-7a09-08d911cd3977)
 - [WPS 全文翻译](https://www.wps.cn/learning/course/detail/id/13536)
 - [沙拉查词+Anki](https://saladict.crimx.com/anki.html) :+1:
+<br>
+
+<br>[⬆ Back to top](#目录)
+# 辅助工具
+- [搜索结果优化 - 屏蔽内容农场uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+- [tampermonkey](https://www.tampermonkey.net/index.php?ext=dhdg#google_vignette) 
+  - [固定Youtube字幕fixed youtube captions](https://greasyfork.org/zh-CN/scripts/402598-fixed-youtube-captions) 
+  - [脚本大全](https://www.userscript.zone/)
+- [Youtube视频速度控制](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
+- [网页摘录重点、划线批注pagenote一页一记](https://chrome.google.com/webstore/detail/pagenote/hpekbddiphlmlfjebppjhemobaopekmp?utm_source=blog)
 <br>
 
 <br>[⬆ Back to top](#目录)
