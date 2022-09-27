@@ -32,6 +32,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ## CS自学和前端自学提问互助、资源共享和交流QQ群（非闲聊群）
 - QQ群：916804503
+- 初期没人交流，欢迎大家分享共同搭建社区。[课程Q&A: Discussions](https://github.com/eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum/discussions)
 <br>
 
 <br>[⬆ Back to top](#目录)
