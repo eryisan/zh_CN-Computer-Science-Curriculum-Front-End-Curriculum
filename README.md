@@ -238,3 +238,4 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [collegecompendium](https://collegecompendium.org/)
 - [My 10-step self-taught CS curriculum - any recommendations?](https://www.reddit.com/r/learnprogramming/comments/gry4el/my_10step_selftaught_cs_curriculum_any/)
 - [Github上有哪些优秀的教程资源合集？](https://www.zhihu.com/question/318439272/answer/1947812362)
+- [roadmap Computer Science](https://roadmap.sh/computer-science)
