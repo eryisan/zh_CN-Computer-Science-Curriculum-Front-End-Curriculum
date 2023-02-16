@@ -62,9 +62,29 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 做项目
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning) 做项目
 - [How to ACTUALLY learn CS如何真正学习计算机科学](https://www.reddit.com/r/learnprogramming/comments/fnxyq7/how_to_actually_learn_cs/)
+- [ops-class.org | Learn Operating Systems Online](https://ops-class.org/)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-- [备用链接CS资源](#备用)
+- [备用CS资源大全](#备用)
 <br>
+
+<br>[⬆ Back to top](#目录)
+# 备用CS资源大全
+- [Open Source CS](https://github.com/ForrestKnight/open-source-cs)
+- [OSSU](https://github.com/ossu/computer-science)
+- [CS1000](https://cs1000.vercel.app/)
+- [No Debt CS](https://no-debt-cs.netlify.app/)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [Functional CS](https://functionalcs.github.io/curriculum/)
+- [p1xt-guides](https://github.com/P1xt/p1xt-guides)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
+- [Teach Yourself Information Security](https://teachyourselfinfosec.com/)
+- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+- [collegecompendium](https://collegecompendium.org/)
+- [My 10-step self-taught CS curriculum - any recommendations?](https://www.reddit.com/r/learnprogramming/comments/gry4el/my_10step_selftaught_cs_curriculum_any/)
+- [Github上有哪些优秀的教程资源合集？](https://www.zhihu.com/question/318439272/answer/1947812362)
+- [roadmap Computer Science](https://roadmap.sh/computer-science)
 
 <br>[⬆ Back to top](#目录)
 # 前端全栈自学
@@ -222,20 +242,3 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [ ] [From Nand to Tetris](https://www.nand2tetris.org/)
   - [x] [相关资料](https://www.zhihu.com/question/464124424)
 - [ ] [CS 61C](https://inst.eecs.berkeley.edu/~cs61c/fa20/)
-
-# 备用
-- [Open Source CS](https://github.com/ForrestKnight/open-source-cs)
-- [OSSU](https://github.com/ossu/computer-science)
-- [CS1000](https://cs1000.vercel.app/)
-- [No Debt CS](https://no-debt-cs.netlify.app/)
-- [Teach Yourself CS](https://teachyourselfcs.com/)
-- [Functional CS](https://functionalcs.github.io/curriculum/)
-- [p1xt-guides](https://github.com/P1xt/p1xt-guides)
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- [Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
-- [Teach Yourself Information Security](https://teachyourselfinfosec.com/)
-- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
-- [collegecompendium](https://collegecompendium.org/)
-- [My 10-step self-taught CS curriculum - any recommendations?](https://www.reddit.com/r/learnprogramming/comments/gry4el/my_10step_selftaught_cs_curriculum_any/)
-- [Github上有哪些优秀的教程资源合集？](https://www.zhihu.com/question/318439272/answer/1947812362)
-- [roadmap Computer Science](https://roadmap.sh/computer-science)
