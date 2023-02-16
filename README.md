@@ -106,6 +106,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 ### 不错的网站
 - [Frontend Mentor](https://www.frontendmentor.io/resources)  做项目
 - [Scrimba](https://scrimba.com/)  互动式视频
+- [慕课网](https://www.imooc.com/read)
 <br>
 
 <br>[⬆ Back to top](#目录)
