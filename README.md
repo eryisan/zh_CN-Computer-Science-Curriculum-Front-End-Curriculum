@@ -65,7 +65,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [ops-class.org | Learn Operating Systems Online](https://ops-class.org/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-- [备用CS资源大全](#备用)
+- [备用CS资源大全](#备用CS资源大全)
 <br>
 
 <br>[⬆ Back to top](#目录)
