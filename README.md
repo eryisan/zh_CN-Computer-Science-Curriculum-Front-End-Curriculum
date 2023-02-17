@@ -64,6 +64,8 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [How to ACTUALLY learn CS如何真正学习计算机科学](https://www.reddit.com/r/learnprogramming/comments/fnxyq7/how_to_actually_learn_cs/)
 - [ops-class.org | Learn Operating Systems Online](https://ops-class.org/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [AlgoryL/Projects-from-Scratch: Read and do projects.](https://github.com/AlgoryL/Projects-from-Scratch)
+- [cweagans/awesome-diy-software: A curated list of awesome DIY software.](https://github.com/cweagans/awesome-diy-software)
 
 - [备用CS资源大全](#备用CS资源大全)
 <br>
