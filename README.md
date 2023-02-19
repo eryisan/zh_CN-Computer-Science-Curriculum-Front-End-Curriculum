@@ -60,6 +60,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
   - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
   - [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) 
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 做项目
+- [Best resources to learn X | bestresourcestolearnx.com](https://bestresourcestolearnx.com/)
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning) 做项目
 - [How to ACTUALLY learn CS如何真正学习计算机科学](https://www.reddit.com/r/learnprogramming/comments/fnxyq7/how_to_actually_learn_cs/)
 - [ops-class.org | Learn Operating Systems Online](https://ops-class.org/)
