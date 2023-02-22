@@ -47,7 +47,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 | Index | Language | Topic | Course | Book |
 |--|--|--|--|--|
 | 1 | Python |程序抽象 |[CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/) | [Composing Programs](http://composingprograms.com/) |
-| 2 |   |构建CPU |[From Nand to Tetris](https://www.nand2tetris.org/) | [The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-second-Principles-dp-0262539802/dp/0262539802/ref=dp_ob_title_bk) | 
+| 2 | CS宏观全局  |构建CPU |[From Nand to Tetris](https://www.nand2tetris.org/) | [The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-second-Principles-dp-0262539802/dp/0262539802/ref=dp_ob_title_bk) | 
 | 3 |  Java |数据结构与算法 |[CS 61B Data Structures](https://sp21.datastructur.es/) | [UC Berkeley's Data Structures course](https://joshhug.gitbooks.io/hug61b/content/) |
 | 4.1 |  C |计算机架构 |[CS 61C](https://inst.eecs.berkeley.edu/~cs61c/fa20/) | [Computer Organization and Design RISC-V Edition](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128122757) |
 | 4.2 |  C | 计算机架构 |[CMU 15-213](http://www.cs.cmu.edu/~213/) | [Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)](https://csapp.cs.cmu.edu/) |
