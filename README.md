@@ -106,11 +106,10 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 | 5 | 进入框架 - React |[react-tutorial.app](https://react-tutorial.app/) | $95 |
 | 6 | 学习前端与后端交互 |[Full stack open](https://fullstackopen.com/) | 免费 |
 
-### 不错的网站
-- [Frontend Mentor](https://www.frontendmentor.io/resources)
-- [Scrimba](https://scrimba.com/)  互动式视频
-- [新版 Node.js+Express+Koa2 开发Web Server博客\_课程](https://coding.imooc.com/learn/list/320.html) 7.前端往后端Node.js
-- [Node.js+Koa2框架生态实战\_从零模拟新浪微博-慕课网](https://coding.imooc.com/class/388.html) 8.后端Node.js进阶
+### 后续练习
+- [Trending - CodePen](https://codepen.io/trending) :+1: 简单的事情重复做, 不断在上面练习前端项目, 查文档+视频+书籍辅助
+- [10,000+ Coding Practice Challenges // Edabit](https://edabit.com/challenges)
+- [Home | Codewars](https://www.codewars.com/dashboard)
 <br>
 
 <br>[⬆ Back to top](#目录)
