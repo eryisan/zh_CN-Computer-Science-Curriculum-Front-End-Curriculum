@@ -112,6 +112,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - [Trending - CodePen](https://codepen.io/trending) :+1: 简单的事情重复做, 不断在上面练习前端项目, 查文档+视频+书籍辅助
 - [10,000+ Coding Practice Challenges // Edabit](https://edabit.com/challenges)
 - [Home | Codewars](https://www.codewars.com/dashboard)
+- [Exercism](https://exercism.org/tracks/javascript/concepts)
 <br>
 
 <br>[⬆ Back to top](#目录)
