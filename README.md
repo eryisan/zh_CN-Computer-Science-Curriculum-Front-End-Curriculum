@@ -96,6 +96,8 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 - 参考：[The Odin Project](https://www.theodinproject.com/) 
 - 参考：[learning-roadmap](https://frontendmasters.com/guides/learning-roadmap/) 
 - 参考：[Web Skills](https://andreasbm.github.io/web-skills/)
+- 参考: [roadmap.sh](https://roadmap.sh/frontend)
+- 参考: [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
 | Index | Topic | Course | Pricing |
 |--|--|--|--|
